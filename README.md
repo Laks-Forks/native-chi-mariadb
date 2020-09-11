@@ -12,19 +12,20 @@ Lisensi : [BSL-1.0](./LICENSE)
 
 - ### 🇮🇩 - Indonesia
 
-#### Cara pakai 
-
+#### ✅ Cara pakai 
 ```
 go run main.go html [lokasi berkas json]
 ```
-contoh:
+
+#### 💡 Contoh
 ```
 go run main.go html tes.json
 ```
 
-#### Cara build
-
-- `go build`
+#### ✨ Cara build
+```
+go build
+```
 - hasilnya akan **`./native-chi-maridb`**
 - Jalankan binary nya : `./native-chi-mariadb html [lokasi berkas json]`
 
@@ -32,17 +33,19 @@ go run main.go html tes.json
 
 - ### 🇺🇸 - English
 
-#### How to use  
+#### ✅ How to use  
 ```
 go run main.go html [path json]
 ```
 
-Example:  
+#### 💡 Example:  
 ```
 go run main.go html tes.json
 ```
-#### How to build
 
-- `go build`
+#### ✨ How to build
+```
+go build
+```
 - this executable result **`./native-chi-maridb`**
 - run binary : `./native-chi-mariadb html [path json]`
