@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Login",
+        "els":[
+            {"label": "username","type":"string"},
+            {"label": "password","type":"string"}
+        ]
+    },
+    {
+        "name":"Store",
+        "els":[
+            {"label": "img_section","type":"file"},
+            {"label": "img_cover","type":"file"}
+        ]
+    }
+]
