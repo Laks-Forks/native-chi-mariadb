@@ -2,23 +2,25 @@
 
 Lisensi : [BSL-1.0](./LICENSE)
 
-- ### Lang
-  - [English](#english)
-  - [Indonesia](#indonesia)
+<br>
+
+- ### 🌐 Idioms
+  - [Indonesia 🇮🇩](#indonesia)
+  - [English 🇺🇸](#english)
 
 <br>
 
-- ### Indonesia
+- ### 🇮🇩 - Indonesia
 
 #### Cara pakai 
 
-`
+```
 go run main.go html [lokasi berkas json]
-`
+```
 contoh:
-`
+```
 go run main.go html tes.json
-`
+```
 
 #### Cara build
 
@@ -28,18 +30,17 @@ go run main.go html tes.json
 
 <br>
 
-- ### English
+- ### 🇺🇸 - English
 
-#### How to use
-
-how to use
-`
+#### How to use  
+```
 go run main.go html [path json]
-`
-contoh:
-`
+```
+
+Example:  
+```
 go run main.go html tes.json
-`
+```
 #### How to build
 
 - `go build`
