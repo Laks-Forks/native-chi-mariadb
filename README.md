@@ -27,7 +27,7 @@ go run main.go html tes.json
 go build
 ```
 - hasilnya akan **`./native-chi-maridb`**
-- Jalankan binary nya : `./native-chi-mariadb html [lokasi berkas json]`
+- Jalankan binary nya: `./native-chi-mariadb html [lokasi berkas json]`
 
 <br>
 
@@ -47,5 +47,5 @@ go run main.go html tes.json
 ```
 go build
 ```
-- this executable result **`./native-chi-maridb`**
-- run binary : `./native-chi-mariadb html [path json]`
+- the result will be **`./native-chi-maridb`**
+- run binary: `./native-chi-mariadb html [path json]`
